@@ -1,1 +1,1 @@
-Dropzone = require('react-dropzone');
+ReactDisqusThread = require('react-disqus-thread');
