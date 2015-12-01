@@ -7,7 +7,7 @@ This package is a wrapper around https://github.com/mzabriskie/react-disqus-thre
 ### Adding it to your project
 
 ~~~
-meteor add praneybehl:react-disqus-comments
+meteor add praneybehl:reactjs-disqus-comments
 ~~~
 
 Example

@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'praneybehl:react-disqus-comments',
+  name: 'praneybehl:reactjs-disqus-comments',
   version: '0.3.1',
   summary: 'Reactjs Disqus comments component packaged for Meteor',
   git: 'https://github.com/praneybehl/meteor-react-disqus-comments',
